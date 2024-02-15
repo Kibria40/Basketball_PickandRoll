@@ -20,12 +20,12 @@ Before you begin, ensure you have Python 3 installed on your system. You can dow
 git clone https://github.com/muhammadhumzadev/ai_basketball.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd ai_basketball
 ```
 
-Install the required dependencies:
+3. Install the required dependencies:
 ```bash
 pip3 install -r requirements.txt
 ```
