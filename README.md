@@ -18,19 +18,22 @@ Before you begin, ensure you have Python 3 installed on your system. You can dow
 
 ```bash
 git clone https://github.com/muhammadhumzadev/ai_basketball.git
+```
 
 Navigate to the project directory:
 ```bash
 cd ai_basketball
-
+```
 
 Install the required dependencies:
 ```bash
-ip3 install -r requirements.txt
+pip3 install -r requirements.txt
+```
 
 ### Running the Application
 To run the application and start detecting pick and roll plays, follow these steps:
 ```bash
 python3 main.py
+```
 
 
